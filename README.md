@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nidbhagwat
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning UX/UI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nidhibhagwat99@gmail.com
 
