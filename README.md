@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Nidbhagwat
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning UX/UI
-- 💞️ I’m looking to collaborate on ...
+- UX Engineer
 - 📫 How to reach me nidhibhagwat99@gmail.com
 
 <!---
