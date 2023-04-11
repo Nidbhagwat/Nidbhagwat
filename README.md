@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nidhi Bhagwat
-- UX Engineer
-- 📫 How to reach me nidhibhagwat99@gmail.com
+- Hi, I’m Nidhi Bhagwat,UX Engineer
+- How to reach me: 
+  nidhibhagwat99@gmail.com
 
 <!---
 Nidbhagwat/Nidbhagwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
